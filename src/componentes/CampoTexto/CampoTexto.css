@@ -1,0 +1,13 @@
+.labelInput{
+  display: grid;
+  justify-content: center;
+  margin:  50px 50px 50px ;
+  
+  
+}
+.labelInput input{
+
+  padding: 20px 100px;  
+  width: 100%;
+  box-shadow: 20px 10px 50px black;
+}
