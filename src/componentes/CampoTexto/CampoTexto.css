@@ -1,13 +1,12 @@
-.labelInput{
+.labelInput {
   display: grid;
   justify-content: center;
-  margin:  50px 50px 50px ;
-  
-  
+  margin: 50px 50px 50px;
 }
-.labelInput input{
-
-  padding: 20px 100px;  
-  width: 100%;
+.labelInput input {
+  margin-top: 10px;
+  display: block;
+  width: 25em;
+  padding: 10px;
   box-shadow: 20px 10px 50px black;
 }
